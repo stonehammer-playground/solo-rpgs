@@ -15,42 +15,227 @@ Checklist:
 5. Update Lists
 ]]
 
-[[
-Neverland Notes:
-Travel - Each hex is 2 miles / 4 hours / 1 clock
-
-Exploring a hex - 1D6 on Exploration table and find result at the end of the current clock. 
-
-Star Date and Location (HEX) = 1D6 x 1D4
-
-Random Encounters - When entering a new hex roll 1D4. The result is how many hours before a random encounter occurs. A random encounter will happen at least once per hex and no more than once per hour.
-
-If a 4 is rolled, the encounter happens a the destination. If anything less it happpens while traveling, is resolved, and then 1D4 is rolled again. If the number is then greater than the previous roll then another encounter happens at the newly rolled hour else nothing happens.
-
-]]
-
-# SECNE 1
+# SCENE 1 - Land Ahoy!
 
 [[Expected: We wash upon shore boat smashed to pieces. Roll Day - D4/D6 - Week 1 Day 2, Roll Hour D12/ D2 - 4:00 AM
 Chaos 5 - Roll 7 - No Changes to scene.]]
 
-EXT. 01 THE PENINSULA - DAWN WEEK 1 DAY 2 HOUR 4 #1#
+EXT. 01 THE PENINSULA - YEAR OF THE EVENING HAWK - APRIL - WEEK 1 DAY 2 HOUR 4 - DAWN - CLOUDY - BREEZE  #1#
 
+##4 AM
 Envision:
 Ocean water is crashing on the beach. Planks and various supplies are washed on the beach as well. A narrow peninsula dotted with shells and pristine sand. 
 
 Huxley wakes up face down in the sand. The ocean waves rolling over his lower legs.  He lifts himself up and oriients himself with his surrounding. 
 
 HUXLEY (muttering)
-
+Looks like it was a one way ticket.
 
 [[
-YNQ: Is there anybody else from my ship with     
-     Huxley? 50/50 - 56 - No. 
-YNQ: Does Huxley still have a working gun?  
-     Unlikely - 48 - No. 
+  YNQ: Is there anybody else from my ship with  Huxley? 50/50 - 56 - No. 
+  YNQ: Does Huxley still have a working gun?  Unlikely - 48 - No. 
 ]]
 
+He doesn't see anyone, pats down his wetclothes and notices his gun is waterlogged. Looking around he sees a dense jungle about 2 miles north and the beach spreading along the left and right. Look back to the ocean he see nothing past a thick white unatural looking fog about 10 miles out.
+
+HUXLEY (to himeslf)
+Hope this is the right island. 
+
+He looks around the ship wreck to see if any supplies can be gathered. 
+
+[[
+AE: HUXLEY attempts to search/scavenge for supplies. D100 -> 23 (Action fails due to unforseen circumstance) 
+    Use Survival trait -> D100 -> 83 (Action succeeds as expected)
+YNQ: Does he find anything? Likely -> Chaos(5) 23 -> Yes
+RED: 54 (smelly), 29(important) -> Food that has been exposed to some salt water/sand. 
+YNQ: Is there a weapon he can use? 50/50 -> 31 -> Yes
+RED:  11 (Damaged), 21(Faded) - chipped rusty knife - still useable  
+]]
+
+HUXLEY (looking at the knife)
+Geez hope they weren't using this to help cook my meals.  How long was I out?
+
+Huxley checks his pockets and finds a picture of the Darling children as they were about three weeks ago.  It's a family portrait of them with their mother and father.
+
+[[
+Neverland Encounter Roll: 1D4 - Hour 2
+YNQ: Does Huxley see Hook's ship to the left? 50/50 - 69 -> No.
+]]
+
+Huxley heads towards the jungle (07) with some food in a sack and a rusty knife. 
+
+##5 AM
+
+Huxley continues to travel up the beach closer to the jungle's edge.
+
+##6 AM
+
+[[
+Chime Hour - A ghost wanders out to the edge of the peninsula, weeps, then disappears.
+]]
+Halfway towards the jungle a chime that seems to come from everywhere stops Huxley in his tracks.  He looks arounds alert.
+A distant crying is heard back from where he came. He turns towards it.
+
+[[
+YNQ: Does he see the ghost? Unlikely -> 55 -> No.
+Mythic Random Event: Theme Focus: 1D100 -> 52(Most likely theme) / Standard Focus: 1D100 -> 87(NPC Negative) - No NPC in scene ignore.
+Neverland Random Event: D20 -> 6 (Area Effect) -> D12 -> 1 (Animal(s) fleeing geography) -> Creature -> D12 -> 7(Flying Shoal)
+Flying Shoal (swarm) - Schools of carnivorous fish that collectively leap out of the water to attack their prey. While individually small, their meat is highly nutritious.
+]]
+
+Looking back towards the wail of crying Huxley doesn't see anyone crying but does see fish leaping in and out of the water following the waves. 
+
+[[
+NER: 1D4 - Hour 3
+]]
+
+##7 AM
+[[
+NRE: D20 -> 18 (NPC) -> D12 -> 9(Tenor Mermaid + pirate if night) 
+NPC: Octave - RED -> D100 -> 20(Delightful), 38(Helpless) - Motive - UNE -> D100 -> 28(aid), 81(advice)
+     D100 -> 57 (Short stocky, burn mark on arm) 
+YNQ: Does she notice Huxley? 50/50 -> 83 -> No
+]]
+
+As Huxley is walking he notices a woman standing at the edge of the ocean in distress yelling out towards it. He slows down and looks to see who she is yelling at but can't see anyone. 
+He approaches her cautiously.
+
+HUXLEY
+Excuse me ma'am?
+
+OCTAVE turns arounds startled and eyes HUXLEY up and down and then puts on a smile.
+
+OCTAVE
+Oh. Hello!  You must be one of the surviors. 
+
+HUXLEY
+Yeah... who were you yelling at?
+
+OCTAVE
+Oh me? Just those darn fish. They always get in a fret around this time because of that ....
+
+She trails off into a smile.
+
+HUXLEY
+... Because of what?
+
+OCTAVE
+Oh you poor thing must be tired and hungry. 
+
+HUXLEY
+Did you say surviors?  Did anyone else make it out alive?
+
+[[
+YNQ: Did they? Unlikely - D100 -> 64 No ]]
+
+She sighs.
+
+OCTAVE
+Sorry I've only seen you. My sisters are on the way torwards the wreckage.  We do get them a lot this time of year. 
+I got stuck calming down the Flying Shoal.  
+
+HUXLEY
+I'm really glad to see you.  I was afraid that I was on the island by myself and would have to make due.  Do you have a
+place I can stay and clean up.  I'm Huxley by the way
+
+She tilts her head and smiles. Her eyes flashing
+
+OCTAVE
+Pleasure to meet you Huxley I'm Octave...
+Our cove is about 2 clocks that way (she points to down the beach to the east).  We probably have room to accomidate you but it will cost you.
+Nothing in Neverland is free. 
+
+HUXLEY
+Well... okay... all I have on me is my clothes, a rusty knife, some food and a picture of three missing children I'm looking for.
+
+OCTAVE
+Missing children?
+
+HUXLEY pulls out the portrait and shows OCTAVE
+
+HUXLEY
+I'm actually here looking for them.  I recieved a mysterious letter and set sail soon after.  The coordinates brought me in this direction but we must of hit something in the fog and our ship ended up in pieces.
+
+OCTAVE
+Inresting...  And what were their names?
+
+HUXLEY
+Wendy, John and Michael Darling.  They've been missing for three weeks. Seen them around?
+
+OCTAVE
+... can't say that I have. But maybe one my sisters has. Just follow the beach and you will be sure to run into it. It's about 3 clocks.  If you start now you should reach it by Evening.  I have to stay here and make sure the shoal behave for the next couple of hours.
+
+HUXLEY
+Thanks. I'll be on my way then.
+
+OCTAVE
+Oh... before you go.... can you do me a tiny favor pretty please... since I was kind enough to help you. You can help me!  Yes.  It's only fair. 
+
+HUXLEY
+... oh sure. What do you need?
+
+She smiles sweetly.
+
+OCTAVE
+I need you to get me a egg. You look like a big strong man underneath all the wet clothes and dirt. You can get me one after you get yourself cleaned up. 
+
+HUXLEY
+An egg?  
+
+OCTAVE
+A special egg. The Crocodile lays them each month.  She just laid them yesterday so it may already be too late and you'll have to wait until next month. The men on the other side of the beach usually bring us a couple but probably hoard the rest for themselves. Those greedy bastards. She lays them at the waterfall around the same time each month.  It's about 3 clocks north from here.  Do this for me and we'll be evens.
+
+She smiles as she bends down and reaches into a satchel by her feet. She pulls out a..
+
+[[
+Neverland Trinket: D20 -> 11/4 -> Tack in Wax - Small ball of wax encasing an iron tack.
+]]
+
+She pulls out a tack in wax and hands it to Huxley.  He looks at it curiously.
+
+OCTAVE
+Here.  Take this.  It shows that you owe me a debt.  Don't lose this and take this seriously Huxley - Debts should always be paid in Neverland. Show my sisters this when you reach the Coral Caves past the Cove. 
+
+HUXLEY
+..s-s-sure.. I'll head that way when I start looking for the children.
+
+She smiles and nods.
+
+HUXLEY
+I guess I'll be on my way to the then.  Thanks.
+
+OCTAVE
+No - thank you!  Enjoy Neverland!.
+
+[[
+Scene Summary:  Add Characters: Octave
+                Add Plotlines: Give Octave a crocodile egg
+                Scene was in control lower to 4
+]]
+
+# SCENE 2 - Travel to the Coves
+
+[[
+Expected: Huxley makes his way to Octave's cove. 
+Chaos 4 Roll -> 5 No changes
+]]
+
+EXT. 02 BEACH CAVES - YEAR OF THE EVENING HAWK - APRIL - WEEK 1 DAY 2 HOUR 4 - DAWN - CLOUDY - BREEZE  #2#
+
+[[
+NER: 1D4 - Hour 3
+]]
+
+##11 AM
+[[
+Envision: As Huxley continues to walk along the coast he notices that the Jungle is getting closer to the shore line. He sees in the close distance the jungle hanging over rocky mountains and the objects (boats?) along the coast.
+]]
+
+[[
+NRE -> D20 -> 18 (NPC) -> D12 -> 2( 1D4 -> 1 Muttering Foliates (Vines/Palm, Mushroom, Grass/Palm, or Coral)) - Heads made of foliage. Some think they're Fairies caught in the space betwen Elphme and Neverland. Others believe the local flora evolved to defend itself from being eaten. Naturally grow to blend in with the region's vegetation. Mutterers are shy, grow through photosynthesis, and insane. Plant material falls out of it's mouth as it speaks, does not hinder comprehension by others. Perfect camouflage if motionless. 
+
+What are they doinig? -> D20 -> Flying! Maybe this is new or maybe this familiar, but it's certainly something worth doing.
+]]
 
 
 
