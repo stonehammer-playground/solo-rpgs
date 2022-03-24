@@ -9,6 +9,6 @@ Star Date and Location (HEX) = 1D6 x 1D4
 
 Random Encounters - When entering a new hex roll 1D4. The result is how many hours before a random encounter occurs. A random encounter will happen at least once per hex and no more than once per hour.
 
-If a 4 is rolled, the encounter happens a the destination. If anything less it happpens while traveling, is resolved, and then 1D4 is rolled again. If the number is then greater than the previous roll then another encounter happens at the newly rolled hour else nothing happens.
+If a 4 is rolled, the encounter happens a the destination. If anything less it happens while traveling, is resolved, and then 1D4 is rolled again. If the number is then greater than the previous roll then another encounter happens at the newly rolled hour else nothing happens.
 
 ]]
