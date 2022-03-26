@@ -1,0 +1,16 @@
+{
+    "spellright.language": [
+        "English"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "fountain"
+    ],
+    "spellright.parserByClass": {
+        "fountain": {
+            "parser": "plain"
+        }
+    }
+}
